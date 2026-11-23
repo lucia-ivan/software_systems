@@ -32,7 +32,8 @@ for the selected production Python file.
 
 - Python 3
 - Git
-- Dependencies listed in `requirements.txt`
+- Dependencies listed in `requirements.txt`: pydriller, pandas, and matplotlib
+
 
 ## Installation
 
