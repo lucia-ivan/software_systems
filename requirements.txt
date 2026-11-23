@@ -1,0 +1,6 @@
+Requirements:
+
+pydriller
+pandas
+matplotlib
+
