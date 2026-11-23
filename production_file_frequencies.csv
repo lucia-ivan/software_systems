@@ -1,0 +1,29 @@
+file,change_frequency
+src/flask/app.py,184
+src/flask/helpers.py,119
+src/flask/__init__.py,98
+src/flask/blueprints.py,97
+src/flask/cli.py,91
+src/flask/scaffold.py,90
+src/flask/testing.py,51
+src/flask/ctx.py,49
+src/flask/sessions.py,46
+src/flask/typing.py,45
+src/flask/json/__init__.py,38
+src/flask/wrappers.py,37
+src/flask/config.py,31
+src/flask/templating.py,26
+src/flask/views.py,25
+src/flask/globals.py,21
+src/flask/json/provider.py,21
+src/flask/debughelpers.py,19
+src/flask/sansio/app.py,17
+src/flask/sansio/scaffold.py,12
+src/flask/logging.py,11
+src/flask/json/tag.py,11
+src/flask/signals.py,9
+src/flask/sansio/blueprints.py,6
+src/flask/__main__.py,2
+src/flask/{ => sansio}/scaffold.py,2
+src/flask/{ => sansio}/blueprints.py,1
+src/flask/{ => sansio}/app.py,1
